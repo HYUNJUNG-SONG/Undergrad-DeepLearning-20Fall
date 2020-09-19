@@ -1,4 +1,5 @@
 # Undergrad-DeepLearning-20Fall
 Deep learning course at Hallym University
 
-안녕
+* Python 기초
+* Numpy 활용
